@@ -2,7 +2,7 @@
 
 💻 **Programador** apaixonado por resolver problemas com tecnologia.  
 🎓 Estudante de **Ciência da Computação (UFFS)**.  
-🚀 Experiência com **Java, C, Python, TypeScript, Docker, Git, SQL**.  
+🚀 Experiência com **Java, C#, Python, TypeScript, Docker, Git, SQL**.  
 
 ---
 
